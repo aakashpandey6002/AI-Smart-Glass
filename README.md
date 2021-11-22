@@ -1,4 +1,4 @@
-# AI Smart Glasses
+# AI Smart Glass
 It is well known that visually challenged as well as old aged people find it 
 difficult to properly recognize any object or person . Priorily walking sticks 
 with sensors have been used to tackle the problem but the method failed to 
