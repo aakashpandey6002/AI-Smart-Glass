@@ -27,7 +27,7 @@ known_face_encodings = [
     face4_face_encoding
 ]
 known_face_names = [
-    "Akash",
+    "Aakash",
     "Adarsh",
     "Pradyuman",
     "Anand"
